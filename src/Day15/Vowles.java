@@ -1,7 +1,5 @@
 package Day15;
 
-
-
 import java.util.stream.Stream;
 
 public class Vowles {
