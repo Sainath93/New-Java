@@ -7,7 +7,7 @@ package Day16;
 
 public class Convert {
     public static void main(String[] args) {
-        List<String> names = Arrays.asList("Sai","Nath","Korlakunta");
+        List<String> names = Arrays.asList("Sainath","Reddy","Moku");
         // toArray method takes as argument a new array and copies the list to the array
         String[] arrNames = names.toArray(new String[names.size()]);
         for(int i=0;i<arrNames.length;i++)

@@ -8,7 +8,7 @@ package Day16;
 
 public class Traverse {
     public static void main(String[] args) {
-        List<String> names = Arrays.asList("Sai","Nath","Korlakunta");
+        List<String> names = Arrays.asList("SaiNath","Reddy","Moku");
         // for loop
         for(int i=0;i<names.size();i++)
         {

@@ -6,7 +6,7 @@ package Day16;
 
 public class RemoveLast {
     public static void main(String[] args) {
-        List<String> names = new ArrayList<>(Arrays.asList("Sai","Nath","Korlakunta"));
+        List<String> names = new ArrayList<>(Arrays.asList("Sainath","Reddy","Moku"));
         names.remove(names.size()-1);
         System.out.println(names);
     }
