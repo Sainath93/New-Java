@@ -7,7 +7,7 @@ import java.util.Iterator;
 public class Iterate {
     public static void main(String[] args) {
         HashSet<String> names = new HashSet<>();
-        names.addAll(Arrays.asList("SaiNath","Reddy","Moku","Tyson","Sandy","Yuvaan","Moku Yuvaan Reddy","Sai Nath Reddy Moku","Laxman","GG"));
+        names.addAll(Arrays.asList("SaiNath","Reddy","Moku","Tyson","Sandy","Yuvaan","Moku Yuvaan Reddy","Sai Nath Reddy Moku","Laxman","Sai"));
         //Iterator
         Iterator<String> iter = names.iterator();
         System.out.println("Using iterator");
